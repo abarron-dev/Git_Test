@@ -3,3 +3,6 @@ Este es un texto de prueba.
 Aqui va una segunda linea nueva para el commit 2
 
 esta es la linea de diferencia esta es la linea 3 
+
+
+Esto deberia de estar solo en login.
